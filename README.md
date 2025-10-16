@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**esibitardickson168-dev/esibitardickson168-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋,I'm Dickson Esibitar😎
+I'm a passionate **Java and React developer** who loves learning new technologies and building creative projects.
+### what i'm working on:
+- 🔭I'm Learning👨‍💻 **Full-stack Java**(spring Boot+React)
+- 🚀 Exploring **Mobile app development**
+- 👯 Building eco-friendly & livestyle projects.
+### What I'm Learning:
+✅Typescript & React.
+✅REST API developement with Spring Boot.
+✅HTM,JAVASCRIP,CSS and PHP.
+###🌎lets connect,
+📩email:"esibitardickson168.gmail.com"
+🎗code.learn.Build.GrowBig🥇.
